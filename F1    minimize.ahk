@@ -1,3 +1,3 @@
-﻿^F1::
+﻿^1::
 WinMinimize A
 return
