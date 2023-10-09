@@ -18,3 +18,13 @@
     Sleep 1
     Send "Pw{!}"
 }
+
+^!/::
+{
+    Send "{Up}"
+}
+
+^!AppsKey::
+{
+    Send "{Down}"
+}
